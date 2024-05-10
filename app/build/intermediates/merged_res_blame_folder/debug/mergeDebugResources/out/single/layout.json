@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.musicapp.sonicsizzle.app-mergeDebugResources-39:/layout/activity_songs_list.xml",
+        "source": "com.musicapp.sonicsizzle.app-main-42:/layout/activity_songs_list.xml"
+    },
+    {
+        "merged": "com.musicapp.sonicsizzle.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.musicapp.sonicsizzle.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.musicapp.sonicsizzle.app-mergeDebugResources-39:/layout/section_song_recycler_list_row.xml",
+        "source": "com.musicapp.sonicsizzle.app-main-42:/layout/section_song_recycler_list_row.xml"
+    },
+    {
+        "merged": "com.musicapp.sonicsizzle.app-mergeDebugResources-39:/layout/category_item_recyclet_row.xml",
+        "source": "com.musicapp.sonicsizzle.app-main-42:/layout/category_item_recyclet_row.xml"
+    },
+    {
+        "merged": "com.musicapp.sonicsizzle.app-mergeDebugResources-39:/layout/song_list_recycler_row.xml",
+        "source": "com.musicapp.sonicsizzle.app-main-42:/layout/song_list_recycler_row.xml"
+    },
+    {
+        "merged": "com.musicapp.sonicsizzle.app-mergeDebugResources-39:/layout/activity_player.xml",
+        "source": "com.musicapp.sonicsizzle.app-main-42:/layout/activity_player.xml"
+    }
+]

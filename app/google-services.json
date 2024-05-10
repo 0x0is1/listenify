@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097299464963",
+    "firebase_url": "https://zero-aa408.firebaseio.com",
+    "project_id": "zero-aa408",
+    "storage_bucket": "zero-aa408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097299464963:android:882eca25fba8f430074f36",
+        "android_client_info": {
+          "package_name": "com.musicapp.sonicsizzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097299464963-9se941cvh91fp0v2pu6vdmhe9c4965lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgF4DTAMNxT5vgpg0Kc1iDP6x0xGvd65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097299464963-9se941cvh91fp0v2pu6vdmhe9c4965lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
